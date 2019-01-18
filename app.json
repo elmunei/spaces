@@ -10,7 +10,7 @@
   "formation": {
   },
   "name": "spaces",
-  "scripts": {
+  "scripts": {node index.js
   },
   "stack": "heroku-18"
 }
